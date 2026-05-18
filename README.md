@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Bruno!
 
-<!--
-**bruno-rodrigues-silva-dev/bruno-rodrigues-silva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação apaixonado por desenvolvimento backend com Java e Spring Boot.
 
-Here are some ideas to get you started:
+## Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [medilab-api](https://github.com/bruno-rodrigues-silva-dev/medilab-api) | API REST para sistema de cadastro médico | Spring Boot, JWT, PostgreSQL |
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-rodrigues-silva-brs)
