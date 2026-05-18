@@ -15,3 +15,6 @@ Estudante de Engenharia da Computação apaixonado por desenvolvimento backend c
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-rodrigues-silva-brs)
+## GitHub Stats
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues-silva-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues-silva-dev&layout=compact&theme=dark)
