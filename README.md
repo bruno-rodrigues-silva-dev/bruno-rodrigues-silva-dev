@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00B4D8&width=600&lines=Olá%2C+eu+sou+o+Bruno!+👋;Desenvolvedor+Backend+Java;Estudante+de+Eng.+da+Computação)](https://git.io/typing-svg)
 
 Estudante de Engenharia da Computação apaixonado por desenvolvimento backend com Java e Spring Boot.
 
